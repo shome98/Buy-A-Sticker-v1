@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticker-Models", "Sticker-Models\Sticker-Models.csproj", "{A25EF1B8-8A98-4D72-A14B-3CF5E2539A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticker-web", "Sticker-web\Sticker-web.csproj", "{FE2A5E36-038D-457F-9014-D893C59528D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A25EF1B8-8A98-4D72-A14B-3CF5E2539A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A25EF1B8-8A98-4D72-A14B-3CF5E2539A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A25EF1B8-8A98-4D72-A14B-3CF5E2539A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2A5E36-038D-457F-9014-D893C59528D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2A5E36-038D-457F-9014-D893C59528D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2A5E36-038D-457F-9014-D893C59528D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2A5E36-038D-457F-9014-D893C59528D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
