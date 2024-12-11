@@ -1,7 +1,7 @@
 ﻿using Sticker_web.Models.ViewModels;
 using Sticker_web.Models;
 
-namespace Sticker_web.Services
+namespace Sticker_web.Services.Interfaces
 {
     public interface IProductService
     {

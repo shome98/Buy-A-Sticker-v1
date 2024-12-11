@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace Sticker_web.Repository
+namespace Sticker_web.Repository.Interfaces
 {
     public interface IRepository<T> where T : class
     {

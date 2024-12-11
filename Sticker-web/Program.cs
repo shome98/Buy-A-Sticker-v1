@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Sticker_web.Data;
 using Sticker_web.Repository;
+using Sticker_web.Repository.Interfaces;
 using Sticker_web.Services;
+using Sticker_web.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

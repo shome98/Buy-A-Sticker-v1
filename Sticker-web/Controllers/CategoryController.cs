@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Sticker_web.Models;
-using Sticker_web.Services;
+using Sticker_web.Services.Interfaces;
 
 namespace Sticker_web.Controllers
 {

@@ -1,5 +1,6 @@
 ﻿using Sticker_web.Models;
-using Sticker_web.Repository;
+using Sticker_web.Repository.Interfaces;
+using Sticker_web.Services.Interfaces;
 
 namespace Sticker_web.Services
 {

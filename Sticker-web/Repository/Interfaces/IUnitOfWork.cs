@@ -1,4 +1,4 @@
-﻿namespace Sticker_web.Repository
+﻿namespace Sticker_web.Repository.Interfaces
 {
     public interface IUnitOfWork
     {

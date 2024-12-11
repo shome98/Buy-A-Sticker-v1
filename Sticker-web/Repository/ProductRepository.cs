@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Sticker_web.Data;
 using Sticker_web.Models;
+using Sticker_web.Repository.Interfaces;
 
 namespace Sticker_web.Repository
 {

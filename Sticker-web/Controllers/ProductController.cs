@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Sticker_web.Models.ViewModels;
 using Sticker_web.Models;
-using Sticker_web.Services;
+using Sticker_web.Services.Interfaces;
 
 namespace Sticker_web.Controllers
 {
